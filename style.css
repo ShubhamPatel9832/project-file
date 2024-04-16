@@ -1,0 +1,30 @@
+.page-background{background-color: black;}
+ .card {
+   width: 500px;
+   height: 750px; 
+   margin-left: 32%;
+   background-color: white; 
+   border: 1px solid #ccc; 
+   border-radius: 8px;
+   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+   
+ }
+ .bordered-paragraph {
+    border: 2px solid black;
+    padding: 10px;
+    margin-left: 1.5%;
+    margin-right: 1.5%;
+  }
+
+  .img-container{
+
+    margin-left: 3%;
+
+  }
+
+.Trivia{
+    margin-left: 3%;
+}
+
+
+      
